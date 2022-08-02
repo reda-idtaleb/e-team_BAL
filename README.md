@@ -22,8 +22,8 @@ L'application peut être utilisée par les élèves comme par les bénévoles de
 
 ## Documents
 * [Scenarios](https://github.com/reda-idtaleb/e-team_BAL/blob/master/scenarios/scenarios.md)
-* [Cas d'utilisation](https://gitlab-etu.fil.univ-lille1.fr/laghmich/e-team_bal/-/tree/main/Cas%20d'utilisations)
-* [Diagrammes de classe](https://gitlab-etu.fil.univ-lille1.fr/laghmich/e-team_bal/-/tree/main/diagrammes)
+* [Cas d'utilisation](https://github.com/reda-idtaleb/e-team_BAL/tree/master/Cas%20d'utilisations)
+* [Diagrammes de classe](https://github.com/reda-idtaleb/e-team_BAL/tree/master/diagrammes)
 * Projet papyrus
-* [Glossaire métier](https://gitlab-etu.fil.univ-lille1.fr/laghmich/e-team_bal/-/blob/main/glossaire_metier.md)
-* [Glossaire ingénierie des besoins](https://gitlab-etu.fil.univ-lille1.fr/laghmich/e-team_bal/-/blob/main/glossaire_ingenierie_besoins.md)
+* [Glossaire métier](https://github.com/reda-idtaleb/e-team_BAL/blob/master/glossaire_metier.md)
+* [Glossaire ingénierie des besoins](https://github.com/reda-idtaleb/e-team_BAL/blob/master/glossaire_ingenierie_besoins.md)
